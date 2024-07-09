@@ -1,4 +1,4 @@
-Land Use Frontend
+Landscape Doctor Use Frontend
 
 ## Available Scripts
 
