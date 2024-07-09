@@ -1,0 +1,85 @@
+.App {
+  width: 100%;
+}
+
+.app-content{
+  height: 100%
+}
+
+.container {
+  height: 83vh;
+  /* margin: 90px auto 0; */
+  width: 100%;
+  position: relative;
+}
+
+.right-side-bar {
+  position: absolute;
+  height: 100%;
+  width: 350px;
+  right: 0;
+  z-index: 9999;
+}
+
+.primary-text {
+  color: #fff;
+}
+
+.divider {
+  border-color: rgba(138, 135, 135, 0.14);
+}
+
+.sponsors {
+  display: flex;
+  /* position: absolute; */
+  /* bottom: 0; */
+  width: 100%;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  z-index: 0;
+}
+
+.sponsors-image-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  /* flex-direction: column; */
+  width: 100%;
+  margin-top: 2em;
+  margin-bottom: -1em;
+}
+
+.sponsors-image {
+  width: 200px;
+padding: 10px 70px;
+}
+
+.tab-pabel-container {
+  width: 99%;
+  height: 80vh;
+  /* border: 1px solid green; */
+  padding: 5px;
+}
+.tabs {
+  background: #fff;
+}
+.tab {
+  background: #00953b !important;
+  color: #fff;
+  margin-right: 5px !important;
+}
+
+.active-tab {
+  background: #fff !important;
+  color: #000 !important;
+  margin-right: 5px !important;
+  border: 1px solid #00953b !important;
+}
+
+.footer {
+  /* margin-top: 20px; */
+}
+.css-19kzrtu {
+  padding: 3px;
+}

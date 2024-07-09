@@ -1,0 +1,47 @@
+.weatherImage {
+  width: 60px;
+  height: 60px;
+}
+
+.center {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.itemLabel {
+  margin: 0 2em 0 0.5em;
+}
+
+.verticalSpace {
+  margin: 1em 0;
+}
+
+.verticallyPadded {
+  padding: 3em;
+}
+
+.info-container {
+  background-color: red;
+}
+
+.horizontal-padding {
+  padding: 0 1em;
+}
+
+.recomendationLabel {
+  padding: 0 2em;
+}
+
+.row {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 20px;
+}
+
+.loaderContainer {
+  width: 100%;
+  padding: 5em 0;
+}

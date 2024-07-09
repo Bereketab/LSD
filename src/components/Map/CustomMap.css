@@ -1,0 +1,19 @@
+#map {
+  height: 100%;
+  width: 100%;
+  position: relative;
+}
+
+.info {
+  background-color: #00953b;
+  border: 1px solid #fff;
+  padding: 10;
+  position: absolute;
+  height: 70%;
+  width: 350px;
+  right: 20px;
+  bottom: 20px;
+  z-index: 30;
+  overflow: auto;
+  border-radius: 10px;
+}

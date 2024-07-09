@@ -1,0 +1,21 @@
+.download-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100%;
+}
+
+.download-icon {
+  font-size: 10em !important;
+  color: gainsboro;
+}
+
+.download-button {
+  background-color: #00953b !important;
+}
+
+.description {
+  width: 20%;
+  text-align: center;
+}
